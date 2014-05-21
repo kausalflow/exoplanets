@@ -19,7 +19,8 @@ exoplanets
 ![](visualization/Export/ExoplanetVis.png)
 
 
-## Benfold's Law
+## Benford's Law
 
+[Benford's Law on wikipedia](https://en.wikipedia.org/wiki/Benford's_law)
 
-![](benfold/export/barMvB.png)
+![](benford/export/barMvB.png)
