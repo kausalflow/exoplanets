@@ -24,3 +24,7 @@ exoplanets
 [Benford's Law on wikipedia](https://en.wikipedia.org/wiki/Benford's_law)
 
 ![](benford/export/barMvB.png)
+
+橙色是 exoplanet 质量，绿色是 Benford's Law 的理论值。比较接近。太奇怪。
+
+半径数据并不遵守此项定律。
