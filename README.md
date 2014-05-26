@@ -27,7 +27,7 @@ Data from Mathematica AstronomicalData which is quite outdated.
 
 ![](benford/export/barMvB.png)
 
-<<<<<<< HEAD
+
 
 More recent data of confirmed exoplanets,
 
@@ -43,4 +43,4 @@ More recent data of all exoplanets including unconfirmed ones,
 橙色是 exoplanet 质量，绿色是 Benford's Law 的理论值。比较接近。太奇怪。
 
 半径数据并不遵守此项定律。
->>>>>>> bf1b431e89a74e17710e5fcad307f871a763616f
+
